@@ -291,7 +291,7 @@ rag-docs/
 <td width="50%" colspan="2">
 
 **Dark mode**
-<img src="docs/screenshots/dark-mode.png" alt="Chat view in dark mode">
+<img src="docs/screenshots/dark-mode.jpg" alt="Chat view in dark mode">
 </td>
 </tr>
 </table>
