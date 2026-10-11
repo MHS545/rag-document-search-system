@@ -16,7 +16,7 @@ and when the retrieved context isn't good enough the app says *"I don't have
 enough information"* instead of guessing.
 
 <p align="center">
-  <img src="docs/screenshots/chat.png" alt="Chat view with a grounded answer and an open citation panel" width="100%">
+  <img src="docs/screenshots/chat.jpg" alt="Chat view with a grounded answer and an open citation panel" width="100%">
 </p>
 
 <p align="center">
@@ -279,12 +279,12 @@ rag-docs/
 <td width="50%">
 
 **Grounded answer with citations**
-<img src="docs/screenshots/chat.png" alt="Chat view with citation panel open">
+<img src="docs/screenshots/chat.jpg" alt="Chat view with citation panel open">
 </td>
 <td width="50%">
 
 **In-app ingestion pipeline**
-<img src="docs/screenshots/ingest.png" alt="Ingest tab showing upload, run pipeline, and indexed documents">
+<img src="docs/screenshots/ingest.jpg" alt="Ingest tab showing upload, run pipeline, and indexed documents">
 </td>
 </tr>
 <tr>
